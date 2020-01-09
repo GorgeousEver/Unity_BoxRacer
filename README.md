@@ -8,3 +8,5 @@ Note:
 2.  Put all stuffs update about physics into FixedUpdate(), this function has a fixed timestep
 
 3.  Using RigidBody.AddForce() can craete more real movement
+
+4.  Add phisics material to a object to perform phisics properties

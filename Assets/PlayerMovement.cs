@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody rb;
-    public float forwardForce;// Can not push the object if this value is too small
+    public float forwardForce;
     public float sideawayForce;
 
     private bool isLeft = false;
